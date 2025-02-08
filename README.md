@@ -1,4 +1,10 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB2dnJhZXN3YnFzN3R2bDFtczZ6Z3g0OXVydGhjZTd6Z2hsMWluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" width="200"/>
+</div>
+
+### About me 👋
+
+
 
 <!--
 **lilbakey/lilbakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
