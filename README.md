@@ -13,7 +13,7 @@ I'm a student at School 21 and learing how to become a good developer
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; Docker
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Docker" alt="Linux" width="40" height="40"/>&nbsp; WSL/Ubuntu
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Docker" alt="Linux" width="40" height="40"/>&nbsp; Ubuntu as main system and now WSL
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; PostgreSQL
   
